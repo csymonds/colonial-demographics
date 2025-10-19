@@ -1,0 +1,123 @@
+year,origin_region,destination_colony,belief_group,percent_share,congregations_total,membership_rate,membership_rate_whites,source,documentation_url
+1776,,Maine,Congregationalist,60.9,64,11,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maine,Presbyterian,17.2,64,11,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maine,Episcopalian/Anglican,9.4,64,11,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maine,Baptist,7.8,64,11,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maine,Quaker,3.1,64,11,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maine,Lutheran,1.6,64,11,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Hampshire,Congregationalist,63.2,125,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Hampshire,Presbyterian,21.6,125,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Hampshire,Baptist,8.8,125,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Hampshire,Quaker,3.2,125,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Hampshire,Episcopalian/Anglican,1.6,125,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Hampshire,Other,1.6,125,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Vermont,Congregationalist,65,20,5,5,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Vermont,Presbyterian,10,20,5,5,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Vermont,Baptist,10,20,5,5,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Vermont,Episcopalian/Anglican,10,20,5,5,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Vermont,Other,5,20,5,5,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Massachusetts,Congregationalist,71.6,433,13,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Massachusetts,Baptist,14.3,433,13,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Massachusetts,Quaker,4.2,433,13,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Massachusetts,Episcopalian/Anglican,3.7,433,13,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Massachusetts,Presbyterian,3,433,13,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Massachusetts,Other,3,433,13,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Massachusetts,Methodist,0.2,433,13,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Rhode Island,Baptist,57.5,87,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Rhode Island,Congregationalist,17.2,87,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Rhode Island,Quaker,12.6,87,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Rhode Island,Episcopalian/Anglican,6.9,87,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Rhode Island,Other,3.4,87,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Rhode Island,Presbyterian,1.1,87,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Rhode Island,Moravian,1.1,87,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Connecticut,Congregationalist,64.2,310,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Connecticut,Episcopalian/Anglican,17.7,310,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Connecticut,Baptist,9.4,310,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Connecticut,Other,5.8,310,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Connecticut,Quaker,1.6,310,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Connecticut,Presbyterian,1.3,310,12,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Dutch Reformed,26.4,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Presbyterian,15.9,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Episcopalian/Anglican,15.5,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Quaker,10.9,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Lutheran,8.6,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Baptist,8.2,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,German Reformed,4.5,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Methodist,3.2,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Moravian,2.3,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Other,2.3,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Congregationalist,1.8,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New York,Roman Catholic,0.5,220,9,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Presbyterian,27.9,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,German Reformed,17.6,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Quaker,15.3,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Lutheran,9.7,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Dutch Reformed,8.6,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Episcopalian/Anglican,6,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Other,5.4,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Baptist,4.9,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Moravian,2.6,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Roman Catholic,1.9,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Pennsylvania,Methodist,0.2,535,14,14,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Presbyterian,30.5,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Baptist,18.3,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Quaker,15.5,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Episcopalian/Anglican,11.5,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Lutheran,9.5,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Methodist,6,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Dutch Reformed,3.2,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,German Reformed,2.4,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Roman Catholic,2,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Moravian,0.8,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,New Jersey,Congregationalist,0.4,252,15,15,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Delaware,Presbyterian,37.3,67,12,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Delaware,Episcopalian/Anglican,22.4,67,12,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Delaware,Quaker,19.4,67,12,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Delaware,Roman Catholic,9,67,12,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Delaware,Baptist,4.5,67,12,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Delaware,Methodist,4.5,67,12,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Delaware,Lutheran,1.5,67,12,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Delaware,Dutch Reformed,1.5,67,12,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Episcopalian/Anglican,26.5,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Roman Catholic,15.6,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Presbyterian,14.2,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Quaker,10.9,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Methodist,10.9,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Moravian,9.5,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,German Reformed,7.6,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Lutheran,7.1,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Other,2.8,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Baptist,2.4,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Maryland,Dutch Reformed,0.9,211,7,10,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,Episcopalian/Anglican,34.6,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,Baptist,29.9,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,Presbyterian,22,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,Quaker,7.1,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,Methodist,2,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,Lutheran,1.8,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,German Reformed,1.6,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,Other,0.6,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Virginia,Roman Catholic,0.2,491,7,13,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,North Carolina,Presbyterian,28.5,165,5,8,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,North Carolina,Baptist,25.5,165,5,8,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,North Carolina,Quaker,18.2,165,5,8,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,North Carolina,Episcopalian/Anglican,14.5,165,5,8,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,North Carolina,German Reformed,7.2,165,5,8,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,North Carolina,Moravian,3,165,5,8,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,North Carolina,Lutheran,1.8,165,5,8,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,North Carolina,Methodist,1.2,165,5,8,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,South Carolina,Presbyterian,31.3,166,8,18,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,South Carolina,Baptist,24.7,166,8,18,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,South Carolina,Episcopalian/Anglican,22.9,166,8,18,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,South Carolina,Lutheran,9,166,8,18,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,South Carolina,Quaker,4.8,166,8,18,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,South Carolina,Other,3.6,166,8,18,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,South Carolina,German Reformed,2.4,166,8,18,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,South Carolina,Congregationalist,1.2,166,8,18,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Georgia,Baptist,30.4,23,4,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Georgia,Lutheran,21.7,23,4,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Georgia,Presbyterian,13,23,4,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Georgia,Episcopalian/Anglican,13,23,4,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Georgia,Quaker,13,23,4,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Georgia,Congregationalist,4.3,23,4,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731
+1776,,Georgia,Other,4.3,23,4,12,Finke & Stark (1989),https://www.jstor.org/stable/3710731

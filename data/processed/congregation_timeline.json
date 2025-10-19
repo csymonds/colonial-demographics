@@ -1,0 +1,103 @@
+{
+  "years": [
+    1776,
+    1850
+  ],
+  "series": [
+    {
+      "belief_group": "Baptist",
+      "values": [
+        497.0,
+        9563.0
+      ]
+    },
+    {
+      "belief_group": "Congregationalist",
+      "values": [
+        668.0,
+        1725.0
+      ]
+    },
+    {
+      "belief_group": "Episcopalian/Anglican",
+      "values": [
+        495.0,
+        1459.0
+      ]
+    },
+    {
+      "belief_group": "Jewish",
+      "values": [
+        5.0,
+        36.0
+      ]
+    },
+    {
+      "belief_group": "Lutheran",
+      "values": [
+        150.0,
+        1231.0
+      ]
+    },
+    {
+      "belief_group": "Methodist",
+      "values": [
+        65.0,
+        13302.0
+      ]
+    },
+    {
+      "belief_group": "Moravian",
+      "values": [
+        31.0,
+        0.0
+      ]
+    },
+    {
+      "belief_group": "Other",
+      "values": [
+        84.0,
+        3247.0
+      ]
+    },
+    {
+      "belief_group": "Presbyterian",
+      "values": [
+        588.0,
+        4858.0
+      ]
+    },
+    {
+      "belief_group": "Quaker",
+      "values": [
+        310.0,
+        726.0
+      ]
+    },
+    {
+      "belief_group": "Reformed (Dutch)",
+      "values": [
+        120.0,
+        335.0
+      ]
+    },
+    {
+      "belief_group": "Reformed (German)",
+      "values": [
+        159.0,
+        341.0
+      ]
+    },
+    {
+      "belief_group": "Roman Catholic",
+      "values": [
+        56.0,
+        1222.0
+      ]
+    }
+  ],
+  "metric": "congregations",
+  "source": "Finke & Stark (1989)",
+  "documentation_url": "https://www.jstor.org/stable/3710731",
+  "notes": "Counts shown are national congregation totals for 1776 and 1850."
+}

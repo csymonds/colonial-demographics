@@ -1,0 +1,31 @@
+source_label,belief_group
+Congregationalist,Congregationalist
+Congregational,Congregationalist
+Separatist/Congregational,Congregationalist
+Episcopalian,Episcopalian/Anglican
+Episcopal,Episcopalian/Anglican
+Anglican,Episcopalian/Anglican
+Anglican (Church of England),Episcopalian/Anglican
+Baptist,Baptist
+General Baptist,Baptist
+Presbyterian,Presbyterian
+Presbyterian (Reformed),Presbyterian
+Quaker,Quaker
+Quaker (Religious Society of Friends),Quaker
+Reformed (Dutch),Reformed (Dutch)
+Reformed (German),Reformed (German)
+Lutheran,Lutheran
+Lutheran (German),Lutheran
+Lutheran (German/Scandinavian),Lutheran
+Roman Catholic,Roman Catholic
+Catholic (Roman),Roman Catholic
+Moravian,Moravian
+Moravian (Unitas Fratrum),Moravian
+Jewish,Jewish
+Jewish (Sephardic),Jewish
+Jewish (Sephardic/Ashkenazic),Jewish
+Methodist,Methodist
+Other,Other
+Huguenot,Huguenot
+Huguenot (French Protestant),Huguenot
+Huguenot/Swiss Reformed,Huguenot

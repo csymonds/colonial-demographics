@@ -1,0 +1,23 @@
+# Node / web
+web/node_modules/
+web/dist/
+web/.vite/
+web/.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.log
+*.tmp
+*.bak
+
+# Data caches
+*.ipynb_checkpoints/

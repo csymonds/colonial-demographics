@@ -1,0 +1,18 @@
+
+
+meeting_name,town_or_city,founding_year,colony,belief_group,metric_type,metric_value,source_url,source_notes
+Philadelphia Monthly Meeting,Philadelphia,1682,Pennsylvania,Quaker (Religious Society of Friends),congregation_founded,1,https://trenton.quaker.org/about-us/history-of-philadelphia-yearly-meeting/,Organized 1682; earliest continuous Quaker meeting in Pennsylvania; became center of Philadelphia Yearly Meeting.
+Chester Monthly Meeting,Chester,1681,Pennsylvania,Quaker (Religious Society of Friends),congregation_founded,1,https://www.swarthmore.edu/friends-historical-library/chester-monthly-meeting-records,Founded 1681; earliest Friends meeting in Pennsylvania (precursor to Philadelphia Monthly Meeting).
+Burlington Monthly Meeting,Burlington,1678,West Jersey (New Jersey),Quaker (Religious Society of Friends),congregation_founded,1,https://trenton.quaker.org/about-us/history-of-philadelphia-yearly-meeting/,Established 1678; one of the first Quaker meetings in West Jersey.
+Shrewsbury Monthly Meeting,Shrewsbury,1672,East Jersey (New Jersey),Quaker (Religious Society of Friends),congregation_founded,1,https://www.nj.gov/state/archives/QuakerCollections.html,Organized 1672; visited by George Fox in 1672; among the oldest Quaker meetings in the colonies.
+Falls Monthly Meeting,Falls Township (near Morrisville),1683,Pennsylvania,Quaker (Religious Society of Friends),congregation_founded,1,https://www.swarthmore.edu/friends-historical-library/falls-monthly-meeting-records,Constituted 1683 under Philadelphia Yearly Meeting; early Bucks County settlement meeting.
+Abington Monthly Meeting,Abington,1682,Pennsylvania,Quaker (Religious Society of Friends),congregation_founded,1,https://www.abingtonmeeting.org/history/,Founded 1682 by early settlers from England; meeting house built 1699.
+Wilmington Monthly Meeting,Wilmington,1738,Delaware,Quaker (Religious Society of Friends),congregation_founded,1,https://archives.delaware.gov/delaware-quaker-records/,Established 1738 from Newark Monthly Meeting; served Friends in northern Delaware.
+Newark Monthly Meeting,Newark,1686,Delaware,Quaker (Religious Society of Friends),congregation_founded,1,https://archives.delaware.gov/delaware-quaker-records/,Formed 1686; one of earliest meetings in Delaware Colony.
+Chichester Monthly Meeting,Chichester,1684,Pennsylvania,Quaker (Religious Society of Friends),congregation_founded,1,https://www.swarthmore.edu/friends-historical-library/chichester-monthly-meeting-records,Organized 1684; split from Chester Monthly Meeting to serve Delaware County.
+Haddonfield Monthly Meeting,Haddonfield,1689,West Jersey (New Jersey),Quaker (Religious Society of Friends),congregation_founded,1,https://haddonfieldfriendsmeeting.org/history/,Founded 1689; meeting house erected 1706.
+Salem Monthly Meeting,Salem,1676,West Jersey (New Jersey),Quaker (Religious Society of Friends),congregation_founded,1,https://www.salemquarterlymeeting.org/,Established 1676 by John Fenwick’s colony in West Jersey; continuous to present.
+Wrightstown Monthly Meeting,Wrightstown (Bucks County),1734,Pennsylvania,Quaker (Religious Society of Friends),congregation_founded,1,https://www.swarthmore.edu/friends-historical-library/wrightstown-monthly-meeting-records,Constituted 1734 from Falls Monthly Meeting.
+Middletown Monthly Meeting,Middletown (Langhorne),1683,Pennsylvania,Quaker (Religious Society of Friends),congregation_founded,1,https://www.swarthmore.edu/friends-historical-library/middletown-monthly-meeting-records,Established 1683; served Bucks County region.
+
+data compiled by ChatGPT (2025) from Friends Historical Library, Philadelphia Yearly Meeting histories, and Delaware/NJ archives; intended for educational visualization.

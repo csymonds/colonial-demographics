@@ -1,0 +1,505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.985,
+          45.253
+        ]
+      },
+      "properties": {
+        "colony": "Maine",
+        "dominant_belief": "Congregationalist",
+        "dominant_share": 60.9,
+        "percentages": {
+          "Congregationalist": 60.9,
+          "Presbyterian": 17.2,
+          "Baptist": 7.8,
+          "Episcopalian/Anglican": 9.4,
+          "Quaker": 3.1,
+          "Reformed (German)": 0.0,
+          "Lutheran": 1.6,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 0.0,
+          "Roman Catholic": 0.0,
+          "Moravian": 0.0,
+          "Other": 0.0,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.572,
+          43.193
+        ]
+      },
+      "properties": {
+        "colony": "New Hampshire",
+        "dominant_belief": "Congregationalist",
+        "dominant_share": 63.2,
+        "percentages": {
+          "Congregationalist": 63.2,
+          "Presbyterian": 21.6,
+          "Baptist": 8.8,
+          "Episcopalian/Anglican": 1.6,
+          "Quaker": 3.2,
+          "Reformed (German)": 0.0,
+          "Lutheran": 0.0,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 0.0,
+          "Roman Catholic": 0.0,
+          "Moravian": 0.0,
+          "Other": 1.6,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.577,
+          44.558
+        ]
+      },
+      "properties": {
+        "colony": "Vermont",
+        "dominant_belief": "Congregationalist",
+        "dominant_share": 65.0,
+        "percentages": {
+          "Congregationalist": 65.0,
+          "Presbyterian": 10.0,
+          "Baptist": 10.0,
+          "Episcopalian/Anglican": 10.0,
+          "Quaker": 0.0,
+          "Reformed (German)": 0.0,
+          "Lutheran": 0.0,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 0.0,
+          "Roman Catholic": 0.0,
+          "Moravian": 0.0,
+          "Other": 5.0,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.382,
+          42.407
+        ]
+      },
+      "properties": {
+        "colony": "Massachusetts",
+        "dominant_belief": "Congregationalist",
+        "dominant_share": 71.6,
+        "percentages": {
+          "Congregationalist": 71.6,
+          "Presbyterian": 3.0,
+          "Baptist": 14.3,
+          "Episcopalian/Anglican": 3.7,
+          "Quaker": 4.2,
+          "Reformed (German)": 0.0,
+          "Lutheran": 0.0,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 0.2,
+          "Roman Catholic": 0.0,
+          "Moravian": 0.0,
+          "Other": 3.0,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.509,
+          41.68
+        ]
+      },
+      "properties": {
+        "colony": "Rhode Island",
+        "dominant_belief": "Baptist",
+        "dominant_share": 57.5,
+        "percentages": {
+          "Congregationalist": 17.2,
+          "Presbyterian": 1.1,
+          "Baptist": 57.5,
+          "Episcopalian/Anglican": 6.9,
+          "Quaker": 12.6,
+          "Reformed (German)": 0.0,
+          "Lutheran": 0.0,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 0.0,
+          "Roman Catholic": 0.0,
+          "Moravian": 1.1,
+          "Other": 3.4,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.695,
+          41.603
+        ]
+      },
+      "properties": {
+        "colony": "Connecticut",
+        "dominant_belief": "Congregationalist",
+        "dominant_share": 64.2,
+        "percentages": {
+          "Congregationalist": 64.2,
+          "Presbyterian": 1.3,
+          "Baptist": 9.4,
+          "Episcopalian/Anglican": 17.7,
+          "Quaker": 1.6,
+          "Reformed (German)": 0.0,
+          "Lutheran": 0.0,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 0.0,
+          "Roman Catholic": 0.0,
+          "Moravian": 0.0,
+          "Other": 5.8,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005,
+          40.712
+        ]
+      },
+      "properties": {
+        "colony": "New York",
+        "dominant_belief": "Reformed (Dutch)",
+        "dominant_share": 26.4,
+        "percentages": {
+          "Congregationalist": 1.8,
+          "Presbyterian": 15.9,
+          "Baptist": 8.2,
+          "Episcopalian/Anglican": 15.5,
+          "Quaker": 10.9,
+          "Reformed (German)": 4.5,
+          "Lutheran": 8.6,
+          "Reformed (Dutch)": 26.4,
+          "Methodist": 3.2,
+          "Roman Catholic": 0.5,
+          "Moravian": 2.3,
+          "Other": 2.3,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.194,
+          41.203
+        ]
+      },
+      "properties": {
+        "colony": "Pennsylvania",
+        "dominant_belief": "Presbyterian",
+        "dominant_share": 27.9,
+        "percentages": {
+          "Congregationalist": 0.0,
+          "Presbyterian": 27.9,
+          "Baptist": 4.9,
+          "Episcopalian/Anglican": 6.0,
+          "Quaker": 15.3,
+          "Reformed (German)": 17.6,
+          "Lutheran": 9.7,
+          "Reformed (Dutch)": 8.6,
+          "Methodist": 0.2,
+          "Roman Catholic": 1.9,
+          "Moravian": 2.6,
+          "Other": 5.4,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.405,
+          40.058
+        ]
+      },
+      "properties": {
+        "colony": "New Jersey",
+        "dominant_belief": "Presbyterian",
+        "dominant_share": 30.5,
+        "percentages": {
+          "Congregationalist": 0.4,
+          "Presbyterian": 30.5,
+          "Baptist": 18.3,
+          "Episcopalian/Anglican": 11.5,
+          "Quaker": 15.5,
+          "Reformed (German)": 2.4,
+          "Lutheran": 9.5,
+          "Reformed (Dutch)": 3.2,
+          "Methodist": 6.0,
+          "Roman Catholic": 2.0,
+          "Moravian": 0.8,
+          "Other": 0.0,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.527,
+          38.91
+        ]
+      },
+      "properties": {
+        "colony": "Delaware",
+        "dominant_belief": "Presbyterian",
+        "dominant_share": 37.3,
+        "percentages": {
+          "Congregationalist": 0.0,
+          "Presbyterian": 37.3,
+          "Baptist": 4.5,
+          "Episcopalian/Anglican": 22.4,
+          "Quaker": 19.4,
+          "Reformed (German)": 0.0,
+          "Lutheran": 1.5,
+          "Reformed (Dutch)": 1.5,
+          "Methodist": 4.5,
+          "Roman Catholic": 9.0,
+          "Moravian": 0.0,
+          "Other": 0.0,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.641,
+          39.045
+        ]
+      },
+      "properties": {
+        "colony": "Maryland",
+        "dominant_belief": "Episcopalian/Anglican",
+        "dominant_share": 26.5,
+        "percentages": {
+          "Congregationalist": 0.0,
+          "Presbyterian": 14.2,
+          "Baptist": 2.4,
+          "Episcopalian/Anglican": 26.5,
+          "Quaker": 10.9,
+          "Reformed (German)": 7.6,
+          "Lutheran": 7.1,
+          "Reformed (Dutch)": 0.9,
+          "Methodist": 10.9,
+          "Roman Catholic": 15.6,
+          "Moravian": 9.5,
+          "Other": 2.8,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.656,
+          37.431
+        ]
+      },
+      "properties": {
+        "colony": "Virginia",
+        "dominant_belief": "Episcopalian/Anglican",
+        "dominant_share": 34.6,
+        "percentages": {
+          "Congregationalist": 0.0,
+          "Presbyterian": 22.0,
+          "Baptist": 29.9,
+          "Episcopalian/Anglican": 34.6,
+          "Quaker": 7.1,
+          "Reformed (German)": 1.6,
+          "Lutheran": 1.8,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 2.0,
+          "Roman Catholic": 0.2,
+          "Moravian": 0.0,
+          "Other": 0.6,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.019,
+          35.759
+        ]
+      },
+      "properties": {
+        "colony": "North Carolina",
+        "dominant_belief": "Presbyterian",
+        "dominant_share": 28.5,
+        "percentages": {
+          "Congregationalist": 0.0,
+          "Presbyterian": 28.5,
+          "Baptist": 25.5,
+          "Episcopalian/Anglican": 14.5,
+          "Quaker": 18.2,
+          "Reformed (German)": 7.2,
+          "Lutheran": 1.8,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 1.2,
+          "Roman Catholic": 0.0,
+          "Moravian": 3.0,
+          "Other": 0.0,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.163,
+          33.837
+        ]
+      },
+      "properties": {
+        "colony": "South Carolina",
+        "dominant_belief": "Presbyterian",
+        "dominant_share": 31.3,
+        "percentages": {
+          "Congregationalist": 1.2,
+          "Presbyterian": 31.3,
+          "Baptist": 24.7,
+          "Episcopalian/Anglican": 22.9,
+          "Quaker": 4.8,
+          "Reformed (German)": 2.4,
+          "Lutheran": 9.0,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 0.0,
+          "Roman Catholic": 0.0,
+          "Moravian": 0.0,
+          "Other": 3.6,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.753,
+          32.165
+        ]
+      },
+      "properties": {
+        "colony": "Georgia",
+        "dominant_belief": "Baptist",
+        "dominant_share": 30.4,
+        "percentages": {
+          "Congregationalist": 4.3,
+          "Presbyterian": 13.0,
+          "Baptist": 30.4,
+          "Episcopalian/Anglican": 13.0,
+          "Quaker": 13.0,
+          "Reformed (German)": 0.0,
+          "Lutheran": 21.7,
+          "Reformed (Dutch)": 0.0,
+          "Methodist": 0.0,
+          "Roman Catholic": 0.0,
+          "Moravian": 0.0,
+          "Other": 4.3,
+          "Jewish": 0.0,
+          "Huguenot": 0.0
+        },
+        "source": "Finke & Stark (1989)",
+        "documentation_url": "https://www.jstor.org/stable/3710731"
+      }
+    }
+  ],
+  "metadata": {
+    "description": "Colony-level denominational percentages for 1776",
+    "source": "Finke & Stark (1989)",
+    "generated_by": "scripts/prepare_colony_profiles.py"
+  }
+}
