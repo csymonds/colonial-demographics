@@ -6,6 +6,9 @@ Together the scripts and the Vite/React/MapLibre app let you explore how
 congregations were founded (1607–1776) and what the denominational mix
 looked like when the United States was born.
 
+![Screenshot of the colonial demographics map interface showing the info panel and legend](web/public/images/Screenshot_201019.png)
+
+
 ---
 
 ## 📦 Project Layout
